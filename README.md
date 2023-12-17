@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on GitHub](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution on GitHub](https://github.com/sourabh-yalagod/3-column-card-componant)
+- Live Site URL: [Live site](https://sourabh-yalagod.github.io/3-column-card-componant/)
 
 ### Built with
 
